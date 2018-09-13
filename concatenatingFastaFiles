@@ -1,0 +1,9 @@
+# for making protein db from many fasta files
+
+# on ubuntu, navigate to folder, then:
+
+cat *.fasta > ReviewedDB.fasta
+
+# where  ReviewedDB.fasta is the name of new file containing all concatenated .fasta files inthe dir
+# where i am 
+
